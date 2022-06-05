@@ -1,0 +1,9 @@
+{
+    // Is git enabled
+    "git.enabled": true,
+    // Path to the git executable
+    "git.path": "D:\\Git\\bin\\git.exe"
+    //"D:\\Git\\bin\\git.exe"
+    //"C:\\path\\to\\git.exe"
+    //"F:\\Git-2.36.1-64-bit.exe"
+}
